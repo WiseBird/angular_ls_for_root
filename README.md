@@ -1,0 +1,1 @@
+Repo contains reproduction of the problem when Angular Language Service can't find component from module imported with `forRoot`.
